@@ -1,0 +1,4 @@
+export const GET_USER_DETAILS = "GET_USER_DETAILS";
+export const SET_MODAL ="SET_MODAL";
+export const SELECTED_USER ="SELECTED_USER";
+export const SET_LOADING = "SET_LOADING";
